@@ -1,3 +1,7 @@
+Digital Innovation One
+Muito bom o material para esutdo.
+Gratidão!
+
 ## About CQRS - Command Query Responsibility Segregation
 
 According with [Martin Folwer](https://martinfowler.com/bliki/CQRS.html)
